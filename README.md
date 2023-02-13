@@ -1,3 +1,5 @@
 # PhoneNumberGenerator
-Simple program that can generate random France's phone numbers and many others countries just by changing the prefix. 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+> Simple program that can generate random France's phone numbers and many others countries just by changing the prefix. 
+
+![Image1](https://www.developpez.net/forums/attachments/p401219d1/a/a/a)
